@@ -1,6 +1,7 @@
-## About talchao 🌀
+### About talchao 🌀
 
-- 🔭 I’m currently working on Minecraft Prom: Survival Games (MCPSG)
+- 🎨 My focus is on creating Minecraft models
+- 🔭 I’m currently working on Minecraft Prom (SG)
 - 🌱 I’m currently learning JavaScript for MCBE
 
 <!--

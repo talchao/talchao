@@ -1,6 +1,6 @@
 ### About talchao 🌀
 
-- 🎨 My focus is on creating Minecraft models
+- 🎨 My focus is on creating Minecraft models. Check them out [here](https://talchao.carrd.co/#pixel)!
 - 🔭 I’m currently working on Minecraft Prom (SG)
 - 🌱 I’m currently learning JavaScript for MCBE
 

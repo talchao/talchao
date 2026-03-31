@@ -1,8 +1,13 @@
-### About talchao 🌀
-
-- 🎨 My focus is on creating Minecraft models. Check them out [here](https://talchao.carrd.co/#pixel)!
-- 🔭 I’m currently working on Minecraft Prom (SG)
-- 🌱 I’m currently learning JavaScript for MCBE
+# About talchao🌀
+### 🎨🖌️2D/3D Pixel Game Artist
+>  » [talchao.carrd.co](https://talchao.carrd.co/#pixel)
+- Founder of **[Minecraft Prom/Homecoming](https://talchao.carrd.co/#prom)** | SG coming soon™
+- Currently working for **[BlockéMon](blockemon.gg)**
+- Lead artist for **Silly Kits** (paused)
+### 💻 Learning to code...
+- HTML/CSS/JS
+- JavaScript for Minecraft Bedrock
+- C#
 
 <!--
 **talchao/talchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

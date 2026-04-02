@@ -2,7 +2,7 @@
 ### 🎨🖌️2D/3D Pixel Game Artist
 >  » [talchao.carrd.co](https://talchao.carrd.co/#pixel)
 - Founder of **[Minecraft Prom/Homecoming](https://talchao.carrd.co/#prom)** | SG coming soon™
-- Currently working for **[BlockéMon](blockemon.gg)**
+- Currently working for **[BlockéMon](https://blockemon.gg)**
 - Lead artist for **Silly Kits** (paused)
 ### 💻 Learning to code...
 - HTML/CSS/JS

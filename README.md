@@ -3,7 +3,7 @@
 >  » [talchao.carrd.co](https://talchao.carrd.co/#pixel)
 - Founder of **[Minecraft Prom/Homecoming](https://talchao.carrd.co/#prom)** | SG coming soon™
 - Currently working for **[BlockéMon](https://blockemon.gg)**
-- Lead artist for **Silly Kits** (paused)
+- Lead artist for **Silly Kits**
 ### 💻 Learning to code...
 - HTML/CSS/JS
 - JavaScript for Minecraft Bedrock
